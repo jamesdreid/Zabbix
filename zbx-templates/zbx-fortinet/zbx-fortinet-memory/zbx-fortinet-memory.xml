@@ -37,6 +37,10 @@
                     <allowed_hosts/>
                     <units>B</units>
                     <delta>0</delta>
+                    <logtimefmt/>
+                    <snmpv3_privprotocol/>
+                    <snmpv3_authprotocol/>
+                    <snmpv3_contextname/>
                     <snmpv3_securityname/>
                     <snmpv3_securitylevel>0</snmpv3_securitylevel>
                     <snmpv3_authpassphrase/>
@@ -76,6 +80,10 @@
                     <allowed_hosts/>
                     <units>B</units>
                     <delta>0</delta>
+                    <logtimefmt/>
+                    <snmpv3_privprotocol/>
+                    <snmpv3_authprotocol/>
+                    <snmpv3_contextname/>
                     <snmpv3_securityname/>
                     <snmpv3_securitylevel>0</snmpv3_securitylevel>
                     <snmpv3_authpassphrase/>
@@ -115,6 +123,10 @@
                     <allowed_hosts/>
                     <units>B</units>
                     <delta>0</delta>
+                    <logtimefmt/>
+                    <snmpv3_privprotocol/>
+                    <snmpv3_authprotocol/>
+                    <snmpv3_contextname/>
                     <snmpv3_securityname/>
                     <snmpv3_securitylevel>0</snmpv3_securitylevel>
                     <snmpv3_authpassphrase/>
@@ -154,6 +166,10 @@
                     <allowed_hosts/>
                     <units>B</units>
                     <delta>0</delta>
+                    <logtimefmt/>
+                    <snmpv3_privprotocol/>
+                    <snmpv3_authprotocol/>
+                    <snmpv3_contextname/>
                     <snmpv3_securityname/>
                     <snmpv3_securitylevel>0</snmpv3_securitylevel>
                     <snmpv3_authpassphrase/>
@@ -193,6 +209,10 @@
                     <allowed_hosts/>
                     <units>B</units>
                     <delta>0</delta>
+                    <logtimefmt/>
+                    <snmpv3_privprotocol/>
+                    <snmpv3_authprotocol/>
+                    <snmpv3_contextname/>
                     <snmpv3_securityname/>
                     <snmpv3_securitylevel>0</snmpv3_securitylevel>
                     <snmpv3_authpassphrase/>
@@ -232,6 +252,10 @@
                     <allowed_hosts/>
                     <units>B</units>
                     <delta>0</delta>
+                    <logtimefmt/>
+                    <snmpv3_privprotocol/>
+                    <snmpv3_authprotocol/>
+                    <snmpv3_contextname/>
                     <snmpv3_securityname/>
                     <snmpv3_securitylevel>0</snmpv3_securitylevel>
                     <snmpv3_authpassphrase/>
@@ -271,6 +295,10 @@
                     <allowed_hosts/>
                     <units>B</units>
                     <delta>0</delta>
+                    <logtimefmt/>
+                    <snmpv3_privprotocol/>
+                    <snmpv3_authprotocol/>
+                    <snmpv3_contextname/>
                     <snmpv3_securityname/>
                     <snmpv3_securitylevel>0</snmpv3_securitylevel>
                     <snmpv3_authpassphrase/>
@@ -310,6 +338,10 @@
                     <allowed_hosts/>
                     <units>B</units>
                     <delta>0</delta>
+                    <logtimefmt/>
+                    <snmpv3_privprotocol/>
+                    <snmpv3_authprotocol/>
+                    <snmpv3_contextname/>
                     <snmpv3_securityname/>
                     <snmpv3_securitylevel>0</snmpv3_securitylevel>
                     <snmpv3_authpassphrase/>
@@ -349,6 +381,10 @@
                     <allowed_hosts/>
                     <units>%</units>
                     <delta>0</delta>
+                    <logtimefmt/>
+                    <snmpv3_privprotocol/>
+                    <snmpv3_authprotocol/>
+                    <snmpv3_contextname/>
                     <snmpv3_securityname/>
                     <snmpv3_securitylevel>0</snmpv3_securitylevel>
                     <snmpv3_authpassphrase/>
@@ -388,6 +424,10 @@
                     <allowed_hosts/>
                     <units>B</units>
                     <delta>0</delta>
+                    <logtimefmt/>
+                    <snmpv3_privprotocol/>
+                    <snmpv3_authprotocol/>
+                    <snmpv3_contextname/>
                     <snmpv3_securityname/>
                     <snmpv3_securitylevel>0</snmpv3_securitylevel>
                     <snmpv3_authpassphrase/>
@@ -427,6 +467,10 @@
                     <allowed_hosts/>
                     <units>B</units>
                     <delta>0</delta>
+                    <logtimefmt/>
+                    <snmpv3_privprotocol/>
+                    <snmpv3_authprotocol/>
+                    <snmpv3_contextname/>
                     <snmpv3_securityname/>
                     <snmpv3_securitylevel>0</snmpv3_securitylevel>
                     <snmpv3_authpassphrase/>
@@ -466,6 +510,10 @@
                     <allowed_hosts/>
                     <units>B</units>
                     <delta>0</delta>
+                    <logtimefmt/>
+                    <snmpv3_privprotocol/>
+                    <snmpv3_authprotocol/>
+                    <snmpv3_contextname/>
                     <snmpv3_securityname/>
                     <snmpv3_securitylevel>0</snmpv3_securitylevel>
                     <snmpv3_authpassphrase/>
@@ -505,6 +553,10 @@
                     <allowed_hosts/>
                     <units>B</units>
                     <delta>0</delta>
+                    <logtimefmt/>
+                    <snmpv3_privprotocol/>
+                    <snmpv3_authprotocol/>
+                    <snmpv3_contextname/>
                     <snmpv3_securityname/>
                     <snmpv3_securitylevel>0</snmpv3_securitylevel>
                     <snmpv3_authpassphrase/>
@@ -544,6 +596,10 @@
                     <allowed_hosts/>
                     <units>%</units>
                     <delta>0</delta>
+                    <logtimefmt/>
+                    <snmpv3_privprotocol/>
+                    <snmpv3_authprotocol/>
+                    <snmpv3_contextname/>
                     <snmpv3_securityname/>
                     <snmpv3_securitylevel>0</snmpv3_securitylevel>
                     <snmpv3_authpassphrase/>
@@ -583,6 +639,10 @@
                     <allowed_hosts/>
                     <units>B</units>
                     <delta>0</delta>
+                    <logtimefmt/>
+                    <snmpv3_privprotocol/>
+                    <snmpv3_authprotocol/>
+                    <snmpv3_contextname/>
                     <snmpv3_securityname/>
                     <snmpv3_securitylevel>0</snmpv3_securitylevel>
                     <snmpv3_authpassphrase/>
